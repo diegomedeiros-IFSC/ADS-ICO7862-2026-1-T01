@@ -4,3 +4,5 @@ Repositório da Turma 01 da disciplina de ICO7862 do curso de ADS do IFSC
 Esta é uma atualização local do README
 
 Uma alteração no repositório remoto
+
+Gerando um conflito local
